@@ -1,0 +1,5 @@
+pandas
+numpy
+selenium
+beautifulsoup4
+getpass
